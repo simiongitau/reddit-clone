@@ -13,7 +13,6 @@ import { BrowserRouter, BrowserRouter as Router } from "react-router-dom";
 ReactDom.render(
     <BrowserRouter>
        <App/>
-
     </BrowserRouter>
     ,
 
